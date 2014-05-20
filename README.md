@@ -1,3 +1,5 @@
+Try [MinicraftPlusPlus](https://github.com/erdemuncuoglu/MinicraftPlusPlus)
+
 # Minicraft
 ## By Notch (http://notch.tumblr.com/)
 
